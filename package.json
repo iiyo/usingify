@@ -1,0 +1,28 @@
+{
+  "name": "usingify",
+  "version": "1.0.0",
+  "description": "Creates some JavaScript for making CommonJS modules available as using modules.",
+  "main": "index.js",
+  "bin": {
+    "usingify": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiyo/usingify.git"
+  },
+  "keywords": [
+    "using",
+    "browserify",
+    "commonjs",
+    "modules"
+  ],
+  "author": "J. Steinbeck",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/iiyo/usingify/issues"
+  },
+  "homepage": "https://github.com/iiyo/usingify#readme"
+}
